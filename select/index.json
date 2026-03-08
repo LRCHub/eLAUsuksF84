@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "The Man Who Sold the World",
+  "base_artist": "Midge Ure",
+  "createdAt": "2026-03-08T10:42:28.645659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/01_The_Man_Who_Sold_The_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/02_The_Man_Who_Sold_the_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/03_The_Man_Who_Sold_the_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The man who sold the world",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/04_The_man_who_sold_the_world_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/05_The_Man_Who_Sold_the_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/06_The_Man_Who_Sold_The_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/07_The_Man_Who_Sold_the_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/08_The_Man_Who_Sold_The_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Man Who Sold The World",
+      "artist": "Lulu",
+      "has_synced": true,
+      "path": "select/09_The_Man_Who_Sold_The_World_Lulu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/10_The_Man_Who_Sold_the_World_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Man Who Sold the World",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/11_The_Man_Who_Sold_the_World_Nirvana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Man Who Sold The World",
+      "artist": "Midge Ure",
+      "has_synced": false,
+      "path": "select/pl_01_The_Man_Who_Sold_The_World_Midge_Ure.txt"
+    }
+  ]
+}
